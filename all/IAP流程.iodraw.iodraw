@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K3i06mHGckWqUuurD7bA-3" value="（IAPflag==无需 &amp;amp;&amp;amp; app状态==正常）||&lt;div&gt;（IAPflag==flash默认 &amp;amp;&amp;amp; app状态==&lt;span style=&quot;background-color: initial;&quot;&gt;flash默认）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="370" width="330" height="80" as="geometry" />
+          <mxGeometry x="50" y="430" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K3i06mHGckWqUuurD7bA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3i06mHGckWqUuurD7bA-9" target="K3i06mHGckWqUuurD7bA-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
