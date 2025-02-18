@@ -22,8 +22,10 @@
         <mxCell id="K3i06mHGckWqUuurD7bA-2" value="从Flash读IAP标志位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="155" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K3i06mHGckWqUuurD7bA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3i06mHGckWqUuurD7bA-3" target="K3i06mHGckWqUuurD7bA-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K3i06mHGckWqUuurD7bA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3i06mHGckWqUuurD7bA-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K3i06mHGckWqUuurD7bA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3i06mHGckWqUuurD7bA-3" target="K3i06mHGckWqUuurD7bA-16" edge="1">
           <mxGeometry relative="1" as="geometry">
